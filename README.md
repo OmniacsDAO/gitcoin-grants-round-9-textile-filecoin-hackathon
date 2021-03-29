@@ -1,5 +1,8 @@
 # Miner Index Visual Explorer
+
 Gitcoin Grants Round 9 Textile Filecoin Hackathon
+
+<a href="https://crypto.omnianalytics.io/apps/git-9-textile-hack/" target="_blank"><img src="www/app.png" align="center"/></a>
 
 ## Description
 
